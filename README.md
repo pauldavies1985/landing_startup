@@ -2,4 +2,4 @@
 
 Basic Landing Startup Template referencing Flex Box and CSS Animation
 
-https://pauldavies1985.github.io/landing_startup/
+https://pauldavies85.github.io/landing_startup/
